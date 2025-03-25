@@ -1,0 +1,1 @@
+{"name":"Local: p7184","url":"s:\\cpp\\cpplearn2\\wrong2\\p7184.cpp","tests":[{"id":1741870366203,"input":"5\nSSPPR\n1\nSSPPR \n","output":"5\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"s:\\cpp\\cpplearn2\\wrong2\\p7184.cpp","group":"local","local":true}

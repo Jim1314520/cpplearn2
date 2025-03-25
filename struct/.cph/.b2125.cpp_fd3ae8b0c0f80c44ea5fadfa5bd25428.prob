@@ -1,0 +1,1 @@
+{"name":"Local: b2125","url":"s:\\cpp\\cpplearn2\\struct\\b2125.cpp","tests":[{"id":1742819589099,"input":"5\n87 lilei\n99 hanmeimei\n97 lily\n96 lucy\n77 jim","output":"hanmeimei\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"s:\\cpp\\cpplearn2\\struct\\b2125.cpp","group":"local","local":true}
