@@ -22,6 +22,7 @@ int main(){
   //     if( v[n-1] == n){
   //       break;
   //     }
+  
   // }
   do{
     int back = v.back();
